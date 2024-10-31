@@ -1,0 +1,13 @@
+
+#ufl_searchbar > input[type="text"] {
+  float: left;
+  width: 79%;
+}
+#ufl_searchbar {
+  margin: 8px auto 0;
+  max-width: 600px;
+}
+#ufl_searchbar > input[type="submit"] {
+    float: left;
+    height: 57px;
+}
